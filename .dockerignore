@@ -1,0 +1,25 @@
+# Py_local 
+venv/
+env/
+ENV/
+.venv/
+
+# Compiled e cache do Py
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Controlo de versôes
+.git
+.gitignore
+
+# Configs e IDEs
+.vscode/
+.idea/
+
+# Docker configs e docs
+compose.yml
+docker-compose.yml
+README.md
+*.log
